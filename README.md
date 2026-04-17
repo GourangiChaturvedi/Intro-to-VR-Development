@@ -13,7 +13,7 @@ This journey began with the **VR Workshop organized by IEEE WIE**, where I am le
 This section showcases the final 3D scene built during the concluding phase of the workshop.
 
 ### 📝 Project Description
-I designed a "A Coffe Shop Scene" focused on clean geometry and realistic lighting. The goal was to create an asset that feels optimized for a VR space.
+I designed a "A Coffee Shop Scene" focused on clean geometry and realistic lighting. The goal was to create an asset that feels optimized for a VR space.
 
 ### 💡 Learning Experience
 * **Tool Mastery:** Gained confidence in Blender’s shortcut-heavy workflow.
