@@ -9,7 +9,7 @@ This journey began with the **VR Workshop organized by IEEE WIE**, where I am le
 - [x] Day 1: Fundamentals and Introduction (Summary Uploaded)
 ---
 
-## 🏁 Day 4: Final Project - 3D Environment Design
+## 🏁 Day 4 & 5: Final Project - 3D Environment Design
 This section showcases the final 3D scene built during the concluding phase of the workshop.
 
 ### 📝 Project Description
