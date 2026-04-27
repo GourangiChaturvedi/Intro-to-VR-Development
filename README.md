@@ -21,4 +21,4 @@ I designed a "A Coffee Shop Scene" focused on clean geometry and realistic light
 * **Workflow:** Understanding the importance of file organization and naming conventions in a professional pipeline.
 
 ### 🖼️ Final Render
-![Final Scene](./Final-Scene/screenshot1.png) 
+![Final Render](Final-Scene/Screenshot%202026-04-17%20222754.png)
